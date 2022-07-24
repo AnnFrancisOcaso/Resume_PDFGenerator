@@ -7,14 +7,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Newtonsoft.Json;
+
 
 namespace JSON_RESUME_TO_PDF
 {
-    public partial class Form1 : Form
+    public partial class pdfgenerator : Form
     {
-        public Form1()
+        public pdfgenerator()
         {
             InitializeComponent();
+        }
+
+        private void pdfgenerator_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

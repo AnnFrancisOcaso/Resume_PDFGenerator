@@ -1,0 +1,19 @@
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\bin\Debug\JSON RESUME TO PDF.exe.config
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\bin\Debug\JSON RESUME TO PDF.exe
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\bin\Debug\JSON RESUME TO PDF.pdb
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\bin\Debug\PdfSharp.dll
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\bin\Debug\PdfSharp.xml
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\obj\Debug\JSON RESUME TO PDF.csproj.AssemblyReference.cache
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\obj\Debug\JSON_RESUME_TO_PDF.pdfgenerator.resources
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\obj\Debug\JSON_RESUME_TO_PDF.Properties.Resources.resources
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\obj\Debug\JSON RESUME TO PDF.csproj.GenerateResource.cache
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\obj\Debug\JSON RESUME TO PDF.csproj.CoreCompileInputs.cache
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\obj\Debug\JSON RESUME TO PDF.csproj.CopyComplete
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\obj\Debug\JSON RESUME TO PDF.exe
+C:\Users\Phenyang\source\repos\JSON RESUME TO PDF\obj\Debug\JSON RESUME TO PDF.pdb
